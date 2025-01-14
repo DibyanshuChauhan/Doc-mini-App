@@ -38,7 +38,7 @@ Make sure you have these installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Doc-mini-App.git
+   git clone https://github.com/DibyanshuChauhan/Doc-mini-App.git
    ```
 
 2. **Navigate to the Project Directory:**
